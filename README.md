@@ -42,10 +42,12 @@
 ###### 使用Animate it! 
 1. 使用Animate it! 
 - 文章的标题添加Animate it!动画。使得更加吸引人
+- [网站链接](https://ttgnb.top/2020/07/01/yuanchuangwenzhang1/)
 ![插入](https://images.gitee.com/uploads/images/2020/0707/003912_bfbb0817_2230296.png "微信图片_20200707003859.png")
 ![效果截图](https://images.gitee.com/uploads/images/2020/0707/003746_c437da4a_2230296.png "微信图片_20200707003500.png")
 2.使用Animate it!
 - 图片添加Animate it!动画。使得更加吸引人
+- [网站链接](https://ttgnb.top/2020/06/25/appsheji/)
 ![插入](https://images.gitee.com/uploads/images/2020/0707/004025_a7fad027_2230296.png "微信图片_20200707003532.png")
 ###### 使用SiteOrigin
 - 三处均使用滑块
