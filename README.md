@@ -77,6 +77,10 @@
 我的网站里面有比较多的图片，所以在网站加载的时候占用了很大一部分的时间，还有就是我用了wordpress的主题，可能这个主题的代码还需要优化。
 ##### 网站安全
 ##### 网站备份
+- winSCP的截图
+![winscp的截图](https://images.gitee.com/uploads/images/2020/0708/181955_bbff2643_2230296.png "微信图片_20200708181641.png")
+- wp-config.php备份本地的截图；插件（backwpup）备份“数据库文件”截图；wordpress后台导出工具导到本地的文件截图
+![数据截图](https://images.gitee.com/uploads/images/2020/0708/182218_88f4cd39_2230296.png "微信图片_20200708181649.png")
 
 
 #### 三、运营
